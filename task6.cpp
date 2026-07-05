@@ -1,4 +1,6 @@
+// adeed comments for demoo 
 #include <iostream>
+
 #include <stack>
 using namespace std;
 // Function to check balanced brackets
